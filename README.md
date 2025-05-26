@@ -49,7 +49,7 @@ pip install poetry
 poetry install
 
 python main.py
-
+```
 
 ### Frontend
 ```bash
